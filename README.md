@@ -11,5 +11,5 @@ Based on the OpenWeather API, the app lets you see the weather for the following
 - Sibiu, Romania
 
 
-Live Preview: [Here](https://netlify.com/)
+Live Preview: [Here](https://steady-pony-fb18ca.netlify.app/)
 
